@@ -1,0 +1,399 @@
+Искусственный Интеллект
+Машинное Обучение
+Глубокое Обучение
+Нейронные Сети
+Наука о Данных
+Компьютерное Зрение
+Обработка Естественного Языка
+Обучение с Подкреплением
+Робототехника
+Алгоритм
+Большие Данные
+Поиск и Анализ Данных
+Общий Искусственный Интеллект
+Когнитивные Вычисления
+Информатика
+Прогнозный Анализ
+Интернет вещей
+Облачные Вычисления
+Распознавание Образов
+Виртуальная Реальность
+Дополненная Реальность
+Деревья Решений
+Машины Опорных Векторов
+Генетические Алгоритмы
+Распознавание Речи
+Байесовские Сети
+Интернет и Веб-технологии
+Эволюционные Вычисления
+Экспертные Системы
+Нечеткая Логика
+Кластерный Анализ
+Моделирование Данных
+Регрессионный Анализ
+Сверточные Нейронные Сети
+Ассоциативные Правила
+Глубинное Обучение
+Автоматическое Распознавание Речи
+Статистический Анализ
+Методы Кластеризации
+Машинное Зрение
+Анализ Временных Рядов
+Высокоразмерные Данные
+Распознавание Образов на Изображениях
+Байесовский Анализ
+Регрессия
+Научное Моделирование
+Рекуррентные Нейронные Сети
+Автоматическое Распознавание Паттернов
+Обработка Больших Данных
+Структурированные Данные
+Оптимизация
+Методы Машинного Обучения
+Системы Рекомендаций
+Анализ Текстовых Данных
+Адаптивные Системы
+Сложность Вычислений
+Робототехнические Системы
+Анализ социальных медиа
+Обнаружение Аномалий
+Методы Компьютерного Зрения
+Решающие Деревья
+Интернет Будущего
+Анализ Графов
+Анализ Медицинских Данных
+Анализ Больших Объемов Данных
+Анализ Эмоционального Тона
+Симуляция
+Машинное Обучение с Учителем
+Машинное Обучение без Учителя
+Информационный Поиск
+Анализ Кредитного Скоринга
+Анализ Финансовых Данных
+Анализ Географических Данных
+Анализ Звука
+Анализ Динамических Систем
+Генетическое Программирование
+Экспертные Решения
+Поддержка Принятия Решений
+Преобразование Данных
+Компьютерные Графики
+Статистические Методы
+Анализ Рисков
+Методы Машинного Зрения
+Информационная Безопасность
+Обнаружение Подделок
+Анализ Потока Данных
+Анализ Биометрических Данных
+Роботизированные Системы
+Искусственный Интеллект в Медицине
+Автономные Автомобили
+Обработка Речи
+Моделирование и Симуляция
+Социальные Сети
+Рекомендательные Системы
+Анализ Сигналов
+Биоинформатика
+Принятие Решений на Основе Данных
+Мобильные Роботы
+Методы Математической Оптимизации
+Анализ Электроэнцефалограммы
+Анализ Данных о Покупках
+Анализ Трафика
+Оптическое Распознавание Знаков
+Анализ Поведения Пользователей
+Интерпретируемость Моделей
+Машинное Обучение на Мобильных Устройствах
+Распознавание Действий
+Моделирование Финансовых Рынков
+Компьютерные Нейросети
+Анализ Экономических Данных
+Анализ Геномных Данных
+Анализ Жестов
+Голосовой Ассистент
+Анализ Данных о Потребителях
+Системы Управления Знаниями
+Анализ Социальных Тенденций
+Компьютерные Игры
+Анализ Финансового Рынка
+Анализ Качества Данных
+Анализ Музыкальных Данных
+Анализ Сетевой Безопасности
+Прогнозирование Поведения Пользователей
+Анализ Эмоций в Тексте
+Генетическое Программирование
+Рекомендации по Персонализации
+Компьютерное Проектирование
+Анализ Физических Данных
+Анализ Работы Сотрудников
+Анализ Здоровья и Фитнеса
+Машинное Обучение в Игровой Индустрии
+Анализ Работоспособности Систем
+Анализ Социальных Графов
+Компьютерная Лингвистика
+Анализ Качества Продукта
+Анализ Криминальной Статистики
+Анализ Метаданных
+Анализ Потребительских Тенденций
+Анализ Данных в Образовании
+Геномика
+Прогнозирование Временных Рядов
+Анализ Погодных Данных
+Компьютерное Моделирование
+Анализ Качества Обслуживания
+Анализ Энергетических Данных
+Прогнозирование Трендов
+Анализ Данных о Транспорте
+Анализ Цифровой Подписи
+Анализ Вирусологических Данных
+Самообучающиеся Системы
+Анализ Финансовых Рисков
+Анализ Интернет-Трафика
+Компьютерная Архитектура
+Анализ Экспертных Отзывов
+Анализ Динамики Курса Валют
+Прогнозирование Продаж
+Анализ Потребительского Спроса
+Анализ Космических Данных
+Анализ Социальной Динамики
+Анализ Данных о Посещаемости
+Компьютерное Моделирование Волновых Процессов
+Анализ Финансовых Временных Рядов
+Анализ Данных о Туризме
+Анализ Загрязнения Окружающей Среды
+Компьютерное Обучение Детей
+Анализ Рекламных Кампаний
+Анализ Климатических Изменений
+Прогнозирование Возраста
+Анализ Продуктового Ассортимента
+Анализ Голосовых Данных
+Анализ Данных о Недвижимости
+Анализ Транзакций
+Анализ Спортивных Данных
+Прогнозирование Инфляции
+Анализ Данных о Потоке Трафика
+Анализ Фотографий
+Анализ Геологических Данных
+Анализ Данных о Пассажиропотоке
+Компьютерная Графика в Реальном Времени
+Анализ Судебных Решений
+Анализ Поведения Клиентов в Интернете
+Прогнозирование Заболеваемости
+Анализ Данных о Ресурсах
+Анализ Качества Изображений
+Анализ Данных о Работниках
+Прогнозирование Трафика
+Анализ Математических Моделей
+Анализ Спама
+Компьютерное Восприятие
+Анализ Данных о Загрязнении Воздуха
+Анализ Законодательных Актов
+Анализ Финансовой Устойчивости
+Прогнозирование Износа Оборудования
+Анализ Качества Воды
+Анализ Структуры Белка
+Анализ Данных о Дорожных Пробках
+Компьютерное Моделирование Молекулярных Систем
+Анализ Сетевой Активности
+Анализ Данных о Пожарах
+Анализ Иммунных Откликов
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Neural Networks
+Data Science
+Computer Vision
+Natural Language Processing
+Reinforcement Learning
+Robotics
+Algorithm
+Big Data
+Data Mining
+Artificial General Intelligence
+Cognitive Computing
+Computer Science
+Predictive Analytics
+Internet of Things
+IoT
+Cloud Computing
+Pattern Recognition
+Virtual Reality
+VR
+Augmented Reality
+AR
+Decision Trees
+Support Vector Machines
+Genetic Algorithms
+Speech Recognition
+Bayesian Networks
+Internet and Web Technologies
+Evolutionary Computation
+Expert Systems
+Fuzzy Logic
+Cluster Analysis
+Data Modeling
+Regression Analysis
+Convolutional Neural Networks
+Association Rules
+Deep Learning
+Automatic Speech Recognition
+Statistical Analysis
+Clustering Methods
+Machine Vision
+Time Series Analysis
+High-dimensional Data
+Image Recognition
+Bayesian Analysis
+Regression
+Scientific Modeling
+Recurrent Neural Networks
+Automatic Pattern Recognition
+Big Data Processing
+Structured Data
+Optimization
+Machine Learning Methods
+Recommender Systems
+Text Data Analysis
+Adaptive Systems
+Computational Complexity
+Robotic Systems
+Social Media Analysis
+Anomaly Detection
+Computer Vision Methods
+Decision Trees
+Future of the Internet
+Graph Analysis
+Medical Data Analysis
+Big Data Analytics
+Sentiment Analysis
+Simulation
+Supervised Machine Learning
+Unsupervised Machine Learning
+Information Retrieval
+Credit Scoring Analysis
+Financial Data Analysis
+Geographical Data Analysis
+Sound Analysis
+Dynamic Systems Analysis
+Genetic Programming
+Expert Systems
+Decision Support
+Data Transformation
+Computer Graphics
+Statistical Methods
+Risk Analysis
+Methods of Machine Vision
+Information Security
+Fraud Detection
+Data Stream Analysis
+Biometric Data Analysis
+Robotic Systems
+AI in Medicine
+Autonomous Vehicles
+Speech Processing
+Modeling and Simulation
+Social Networks
+Recommender Systems
+Signal Analysis
+Bioinformatics
+Data-Driven Decision Making
+Age Prediction
+Purchase Data Analysis
+Traffic Analysis
+Optical Character Recognition
+User Behavior Analysis
+Model Interpretability
+Mobile Device Machine Learning
+Action Recognition
+Financial Market Modeling
+Neural Networks for Computers
+Economic Data Analysis
+Genomic Data Analysis
+Gesture Analysis
+Voice Assistant
+Consumer Data Analysis
+Knowledge Management Systems
+Social Trend Analysis
+Computer Games
+Financial Market Analysis
+Data Quality Analysis
+Music Data Analysis
+Network Security Analysis
+User Behavior Forecasting
+Sentiment Analysis in Text
+Genetic Programming
+Personalization Recommendations
+Computer-Aided Design
+Physical Data Analysis
+Employee Performance Analysis
+Health and Fitness Analysis
+Machine Learning in Gaming Industry
+System Performance Analysis
+Social Graph Analysis
+Computational Linguistics
+Product Quality Analysis
+Criminal Statistics Analysis
+Metadata Analysis
+Consumer Trends Analysis
+Education Data Analysis
+Genomics
+Time Series Forecasting
+Weather Data Analysis
+Computer Modeling
+Service Quality Analysis
+Energy Data Analysis
+Trend Forecasting
+Transportation Data Analysis
+Digital Signature Analysis
+Virological Data Analysis
+Self-learning Systems
+Financial Risk Analysis
+Internet Traffic Analysis
+Computer Architecture
+Expert Reviews Analysis
+Currency Exchange Rate Dynamics Analysis
+Sales Forecasting
+Consumer Demand Analysis
+Space Data Analysis
+Social Dynamics Analysis
+Website Traffic Data Analysis
+Real-time Computer Graphics
+Financial Time Series Analysis
+Tourism Data Analysis
+Environmental Pollution Analysis
+Children's Machine Learning
+Internet User Behavior Analysis
+Inflation Forecasting
+Product Assortment Analysis
+Voice Data Analysis
+Real Estate Data Analysis
+Transaction Analysis
+Sports Data Analysis
+Inflation Forecasting
+Traffic Forecasting
+Mathematical Modeling Methods
+Image Data Analysis
+Geological Data Analysis
+Passenger Flow Data Analysis
+Real-Time Computer Graphics
+Legal Decision Analysis
+Online User Behavior Analysis
+Disease Outbreak Prediction
+Resource Data Analysis
+Image Quality Analysis
+Employee Data Analysis
+Traffic Forecasting
+Data Analysis of Mathematical Models
+Spam Analysis
+Computer Perception
+Air Pollution Data Analysis
+Legal Act Analysis
+Financial Stability Analysis
+Equipment Wear Forecasting
+Water Quality Analysis
+Protein Structure Analysis
+Traffic Congestion Data Analysis
+Molecular Systems Computer Modeling
+Network Activity Analysis
+Fire Data Analysis
+Immunological Response Analysis
